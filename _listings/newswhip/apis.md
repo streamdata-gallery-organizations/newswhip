@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11443-news
 x-kinRank: "8"
 x-alexaRank: "97323"
 tags: NewsWhip
-created: "2018-06-25"
-modified: "2018-06-25"
+created: "2018-06-26"
+modified: "2018-06-26"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/newswhip/master/_listings/newswhip/apis.md
 specificationVersion: "0.14"
 apis:
